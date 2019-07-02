@@ -1,0 +1,31 @@
+@media screen and (max-width: 767px) {
+  main {
+    width: 480px;
+    margin: auto;
+  }
+  #a {
+    width: 480px;
+    height: 75px;
+  }
+
+  #b {
+    width: 480px;
+    height: 150px;
+  }
+
+  #c,
+  #d {
+    width: 480px;
+    height: 125px;
+  }
+
+  .efgh {
+    width: 240px;
+    height: 250px;
+  }
+
+  #i {
+    width: 480px;
+    height: 80px;
+  }
+}
