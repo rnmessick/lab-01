@@ -1,0 +1,55 @@
+@media screen and (min-width: 1000px) {
+  main {
+    width: 1000px;
+    margin: auto;
+  }
+  #a {
+    width: 1000px;
+    height: 75px;
+    background-color: rgb(0, 255, 242);
+  }
+
+  #b {
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(104, 62, 218);
+  }
+
+  #c,
+  #d {
+    width: 500px;
+    height: 125px;
+  }
+  #c{
+    background-color: rgb(156, 78, 152);
+ 
+  }
+  #d{
+    background-color: rgb(25, 122, 248);
+  }
+  #e{
+    background-color: rgb(212, 176, 76);
+  }
+  #f{
+    background-color: rgb(90, 67, 133);
+  }
+
+  #g{
+    background-color: rgb(78, 23, 114);
+  }
+
+  #h{
+    background-color: rgb(182, 30, 212);
+  }
+  .efgh {
+    width: 250px;
+    height: 250px;
+  }
+
+  #i {
+    width: 1000px;
+    height: 80px;
+    background-color: rgb(138, 43, 226);
+  }
+}
+

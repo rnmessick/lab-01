@@ -1,0 +1,63 @@
+@media screen and (min-width: 768px) {
+  main {
+    width: 960px;
+    margin: auto;
+
+    
+  }
+  #a {
+    width: 960px;
+    height: 100px;
+    margin-top: 10px;
+    background-color: blue;
+  }
+
+  #b {
+    width: 200px;
+    height: 600px;
+    background-color: blueviolet;
+  }
+
+  #c{
+    background-color: purple;
+ 
+  }
+  #d{
+    background-color: rgb(28, 13, 161);
+  }
+  #c, #d {
+    width: 380px;
+    height: 200px;
+  }
+  #e{
+    background-color: rgb(2, 117, 79);
+  }
+  #f{
+    background-color: rgb(240, 104, 199);
+  }
+
+  #g{
+    background-color: rgb(80, 212, 168);
+  }
+
+  #h{
+    background-color: rgb(212, 30, 54);
+  }
+  
+  .efgh {
+    width: 190px;
+    height: 250px;
+  }
+
+  #i {
+    width: 760px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-color: aqua;
+  }
+
+}
+
+div {
+float: left;
+}
